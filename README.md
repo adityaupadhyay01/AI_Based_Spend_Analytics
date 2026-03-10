@@ -1,4 +1,4 @@
-# Smart Expense Tracker
+**# Smart Expense Tracker
 
 A Python-based expense tracking system that records daily expenses and provides data analysis and visualizations.
 
@@ -19,3 +19,4 @@ A Python-based expense tracking system that records daily expenses and provides 
 1. Clone the repository
 2. Install dependencies
 3. Run the main file
+**
