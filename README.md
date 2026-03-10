@@ -1,7 +1,7 @@
-**# Smart Expense Tracker
+# AI Based Spend Analytics
 
-A Python-based expense tracking system that records daily expenses and provides data analysis and visualizations.
-
+## Overview
+Python based expense tracking and analytics system.
 ## Features
 - Add daily expenses
 - Category-wise analysis
