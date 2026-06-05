@@ -19,7 +19,7 @@ def add_expense():
     conn.commit()
     conn.close()
 
-    print("✅ Expense added successfully!")
+    print("Expense added successfully!")
 
 
 def view_expenses():
